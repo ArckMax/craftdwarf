@@ -1,0 +1,25 @@
+.title-block {
+  color: #fff
+}
+
+img {
+  border-radius: 75%;
+  transition: all 0.5s
+}
+
+img:hover{
+  background-color: rgba(255, 205, 43, 0.5);
+  box-shadow:
+    0 0 60px 30px rgba(255, 205, 43, 0.4),
+    /* inner white */
+    0 0 100px 60px rgba(255, 175, 43, 0.3),
+    /* middle magenta */
+    0 0 140px 90px rgba(255, 150, 43, 0.2);
+  /* outer cyan */
+}
+
+/* CARD ITEM */
+
+.card-item{
+  background-color:white;
+}

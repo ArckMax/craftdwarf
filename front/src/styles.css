@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: "ancienthellenic";
+  src: url("src/assets/fonts/ancienthellenic-webfont.ttf");
+}
+
+
+body {
+  margin: 0 auto;
+  background-color: black;
+}
+
+/* Weapon Cards rules */
+.ancienthellenic {
+  font-family: "ancienthellenic", 'Courier New', Courier, monospace
+}

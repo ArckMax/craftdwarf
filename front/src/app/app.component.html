@@ -1,0 +1,35 @@
+<div class="container-fluid text-center">
+  <div class="text-center title-block mb-5">
+    <h1 class="ancienthellenic">Craftdwarf</h1>
+  </div>
+
+  <div>
+    <img src="assets/blacksmith.png" (click)="randomizeNumberOfClick()">
+  </div>
+
+
+  <!-- Last items created -->
+
+  <div *ngFor="let item of lastItems" class="col-2 m-2 d-inline-block card-item container-fluid">
+    <div class="ancienthellenic col-12">
+      {{item.weapon_type}}
+    </div>
+    <!-- Axe block -->
+    <div *ngIf="item.type == 'Axe'">
+      <p>Head : {{item.head.name}} decorate with {{item.head_deco}}</p>
+      <p>Handle : {{item.handle.name}} decorate with {{item.handle_deco}}</p>
+    </div>
+
+    <!-- Sword block -->
+
+    <p *ngIf="item.type == 'Sword'">This is a Sword</p>
+
+    <!-- Spear block -->
+
+    <p *ngIf="item.type == 'Spear'">This is a Spear</p>
+
+    <!-- Dagger block -->
+
+    <p *ngIf="item.type == 'Dagger'">This is a Dagger</p>
+  </div>
+</div>
