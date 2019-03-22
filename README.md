@@ -16,7 +16,7 @@ In a heroic-fantasy world, the crafts of the dwarves are famous. Any of the reso
 
 You, the student of the Great Craftsman Brum, have to face your greatest challenge : the exam to obtain the official title of dwarf craftsman.
 
-Create your own items with what's right for you, and maybe one day you'll be the next "Great Darven Craftsman".
+Create your own items with what you have in your workshop, and maybe one day you'll be the next "Great Darven Craftsman".
 
 
 ---------------------------------------------------------------------------------------
@@ -29,7 +29,7 @@ Features planned :
 - Sales system between users (With a currency system, allowing the discovery of new rare materials or enchantments)
 - More jobs
 - Exploration, Archeology system for discovering items (Famous items made by other players ?) 
-- Procedural generation of a story attributed to an object. For example, a sword may have been forged by a famous dwarf, to have been lost in the battle against an Ancient Demon, and discovered during an exploration in ruins. It would also be possible to display the various owners of the object, if it has been sold.
+- Procedural generation of a story attributed to an object. For example, a sword may have been forged by a famous dwarf, have been lost in the battle against an Ancient Demon, and discovered during an exploration in ruins. It would also be possible to display the various owners of the object, if it has been sold.
 
 ----------------------
 
