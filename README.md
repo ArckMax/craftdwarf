@@ -16,7 +16,7 @@ In a heroic-fantasy world, the crafts of the dwarves are famous. Any of the reso
 
 You, the student of the Great Craftsman Brum, have to face your greatest challenge : the exam to obtain the official title of dwarf craftsman.
 
-Create your own items with what you have in your workshop, and maybe one day you'll be the next "Great Darven Craftsman".
+Create your own items with what you have in your workshop, and maybe one day you'll be the next "Great Dwarven Craftsman".
 
 
 ---------------------------------------------------------------------------------------
