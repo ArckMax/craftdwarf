@@ -32,7 +32,7 @@ Features planned :
 - Procedural generation of a story attributed to an object. For example, a sword may have been forged by a famous dwarf, have been lost in the battle against an Ancient Demon, and discovered during an exploration in ruins. It would also be possible to display the various owners of the object, if it has been sold.
 - Clan creation : Maybe create by players or procedural generation.
 - Historic background generation
-- Religion system with beliefs, major and minor gods. 
+- Religion system with beliefs, Pantheon major and minor gods 
 - Magic : Elements and spell, and several jobs linked => Chaman, Wizard, etc.
 
 ----------------------
