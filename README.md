@@ -24,16 +24,21 @@ Create your own items with what you have in your workshop, and maybe one day you
 
 Now, only the Blacksmith job is available. Several other jobs are planned, such as cooking, leatherworking, jewelery, etc.
 
-Features planned : 
+Features planned if the application is only based on generation (without players involvement) : 
 
-- Sales system between users (With a currency system, allowing the discovery of new rare materials or enchantments)
 - More jobs
-- Exploration, Archeology system for discovering items (Famous items made by other players ?) 
+- Exploration, Archeology system for discovering items.
 - Procedural generation of a story attributed to an object. For example, a sword may have been forged by a famous dwarf, have been lost in the battle against an Ancient Demon, and discovered during an exploration in ruins. It would also be possible to display the various owners of the object, if it has been sold.
-- Clan creation : Maybe create by players or procedural generation.
+- Clan creation.
 - Historic background generation
 - Religion system with beliefs, Pantheon major and minor gods 
 - Magic : Elements and spell, and several jobs linked => Chaman, Wizard, etc.
+
+With players involvement : 
+
+- Sales system between users (With a currency system, allowing the discovery of new rare materials or enchantments).
+- Offer service : Enchant/Repair/Decorate/Improve a craft.
+- Choose and switch (with compensation) of allegiance. 
 
 ----------------------
 
