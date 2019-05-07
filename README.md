@@ -24,7 +24,7 @@ Create your own items with what you have in your workshop, and maybe one day you
 
 Now, only the Blacksmith job is available. Several other jobs are planned, such as cooking, leatherworking, jewelery, etc.
 
-Features planned if the application is only based on generation (without players involvement) : 
+Features planned (without players involvement) : 
 
 - More jobs
 - Exploration, Archeology system for discovering items.
